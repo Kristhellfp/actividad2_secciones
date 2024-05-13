@@ -1,0 +1,24 @@
+.bloque_3{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.lista{
+    width: 45rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    position: relative; 
+    top: -425px; 
+    position: relative; 
+    left: 225px;
+    margin-right: -450px; 
+}
+
+.logo{
+    position: relative; 
+    top: -425px; 
+}

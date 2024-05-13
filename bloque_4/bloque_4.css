@@ -1,0 +1,16 @@
+.bloque_4{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.caja4{
+    width: 25rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.textfinal{
+    width: 14rem;
+    text-align: end;
+}
